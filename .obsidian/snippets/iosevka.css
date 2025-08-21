@@ -1,0 +1,12 @@
+.cm-s-obsidian,
+.markdown-source-view,
+.markdown-source-view.mod-cm6,
+.markdown-source-view.mod-cm6 .cm-scroller,
+.cm-line,
+.markdown-preview-view,
+.markdown-preview-view * {
+  font-family: "Iosevka", monospace !important;
+  font-size: 16px !important;
+  font-variant-ligatures: none;
+}
+

@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Tokyo Night",
+  "interfaceFontFamily": "Iosevka",
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "iosevka"
+  ],
+  "theme": "obsidian",
+  "accentColor": ""
+}
