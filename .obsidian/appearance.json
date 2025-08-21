@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Tokyo Night",
-  "interfaceFontFamily": "Iosevka",
-  "textFontFamily": "",
-  "enabledCssSnippets": [
-    "iosevka"
-  ],
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "Inter,Helvetica",
+  "textFontFamily": "Helvetica",
+  "enabledCssSnippets": [],
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "",
+  "monospaceFontFamily": "Helvetica",
+  "baseFontSize": 16
 }
