@@ -12,6 +12,10 @@ git push -u origin main
 ## Subir las tags
 ```bash
 git tag
+git tag -a v0.0.1 -m "Version alpha"
+git push origin v0.0.1
+# o
+git push --tags
 ```
 
 ## Realease tags
@@ -70,4 +74,8 @@ y ahora nos encontraremos en un punto de rebase
 entranos y modificamos el archvio que causa conflicto,, aceptamos si queremos alguno de los dos cambios y hacemos add . y commit
 y ya por ultimo 
 git rebase --continue
+
+
+### REPASAR EL EJERCICIO 
+
 
