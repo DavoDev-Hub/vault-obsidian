@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Github Issues, MileStones y Colaboradores.md",
+                "file": "Git/Ramas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Github Issues, MileStones y Colaboradores"
+              "title": "Ramas"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,13 +171,16 @@
   },
   "active": "5be359a4f186b4dd",
   "lastOpenFiles": [
-    "Git/GitHub - AVANZADO.md",
-    "Git/Github Issues, MileStones y Colaboradores.md",
-    "Git/GitHub  - BASICO.md",
     "Git/Github Inicios, Git Remote, Push & Pull.md",
+    "Git/GitHub - AVANZADO.md",
+    "Git/Git stash y Git Rebase.md",
+    "Git/GitHub  - BASICO.md",
+    "Git/Gist.md",
+    "Git/Organizaciones y Equipos.md",
+    "Git/Wikis, Proyectos y Github Pages.md",
+    "Git/Github Issues, MileStones y Colaboradores.md",
     "Git/Ramas.md",
     "Git/Fundamentos 2.md",
-    "Git/Git stash y Git Rebase.md",
     "Git/MARKDOWN.md",
     "Git/Fundamentos.md",
     "markdown-cheatsheet-online.pdf",
@@ -200,9 +204,6 @@
     "i3/Plugin List.md",
     "codigo.md",
     "Computer Science Congress/Tecnologias.md",
-    "Computer Science Congress/Objetivo.md",
-    "tmux/Shortcuts.md",
-    "neovim/General Setup.md",
     "Computer Science Congress",
     "i3",
     "Git"
