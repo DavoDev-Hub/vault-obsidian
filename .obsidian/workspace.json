@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5be359a4f186b4dd",
+            "id": "fe7950c73d0e644e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Ramas.md",
+                "file": "Angular/08-classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ramas"
+              "title": "08-classes"
             }
           }
         ]
@@ -169,24 +169,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5be359a4f186b4dd",
+  "active": "fe7950c73d0e644e",
   "lastOpenFiles": [
+    "Git/Wikis, Proyectos y Github Pages.md",
+    "Git/Fundamentos.md",
+    "Git/Fundamentos 2.md",
+    "Git/Ramas.md",
+    "Git/Organizaciones y Equipos.md",
+    "Git/MARKDOWN.md",
+    "Git/Github Issues, MileStones y Colaboradores.md",
     "Git/Github Inicios, Git Remote, Push & Pull.md",
     "Git/GitHub - AVANZADO.md",
-    "Git/Git stash y Git Rebase.md",
     "Git/GitHub  - BASICO.md",
+    "Git/Git stash y Git Rebase.md",
     "Git/Gist.md",
-    "Git/Organizaciones y Equipos.md",
-    "Git/Wikis, Proyectos y Github Pages.md",
-    "Git/Github Issues, MileStones y Colaboradores.md",
-    "Git/Ramas.md",
-    "Git/Fundamentos 2.md",
-    "Git/MARKDOWN.md",
-    "Git/Fundamentos.md",
+    "Angular/08-classes.md",
+    "Angular/07-import-export.md",
+    "Angular/06-Function-Destructuring.md",
+    "Angular/05-basic-destructuring.md",
+    "Angular/04-homework-types.ts.md",
+    "Angular/03-functions.ts.md",
+    "Angular/02-object-interface.ts.md",
+    "Angular/01-typescript-intro.md",
+    "Angular",
     "markdown-cheatsheet-online.pdf",
     "README.md",
     "CURSOS/Typescript/TsConfig.json.md",
-    "Untitled",
     "CURSOS/Typescript/Hola mundo.md",
     "CURSOS/Typescript/Instalacion.md",
     "Computer Science Congress/Requerimientos Funcionales.md",
@@ -194,16 +202,8 @@
     "CURSOS/TS",
     "CURSOS",
     "Computer Science Congress/Requerimientos No funcionales.md",
-    "Docker/Commands.md",
-    "tmux/Configuration.md",
     "Docker",
-    "DSA/Recipe to success.md",
-    "i3/Keybinds.md",
     "DSA",
-    "neovim/keybinds - Shortcuts.md",
-    "i3/Plugin List.md",
-    "codigo.md",
-    "Computer Science Congress/Tecnologias.md",
     "Computer Science Congress",
     "i3",
     "Git"
