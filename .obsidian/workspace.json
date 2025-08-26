@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/08-classes.md",
+                "file": "LabMOBIL/Lunes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-classes"
+              "title": "Lunes"
             }
           }
         ]
@@ -171,19 +171,25 @@
   },
   "active": "fe7950c73d0e644e",
   "lastOpenFiles": [
-    "Git/Wikis, Proyectos y Github Pages.md",
-    "Git/Fundamentos.md",
+    "LabMOBIL/Git.md",
+    "LabMOBIL/Lunes.md",
+    "codigo.md",
+    "markdown-cheatsheet-online.pdf",
+    "README.md",
+    "LabMOBIL",
+    "Git/Git stash y Git Rebase.md",
     "Git/Fundamentos 2.md",
+    "Git/Fundamentos.md",
+    "Git/Gist.md",
+    "Angular/08-classes.md",
+    "Git/GitHub  - BASICO.md",
+    "Git/GitHub - AVANZADO.md",
+    "Git/Wikis, Proyectos y Github Pages.md",
     "Git/Ramas.md",
     "Git/Organizaciones y Equipos.md",
     "Git/MARKDOWN.md",
     "Git/Github Issues, MileStones y Colaboradores.md",
     "Git/Github Inicios, Git Remote, Push & Pull.md",
-    "Git/GitHub - AVANZADO.md",
-    "Git/GitHub  - BASICO.md",
-    "Git/Git stash y Git Rebase.md",
-    "Git/Gist.md",
-    "Angular/08-classes.md",
     "Angular/07-import-export.md",
     "Angular/06-Function-Destructuring.md",
     "Angular/05-basic-destructuring.md",
@@ -192,20 +198,13 @@
     "Angular/02-object-interface.ts.md",
     "Angular/01-typescript-intro.md",
     "Angular",
-    "markdown-cheatsheet-online.pdf",
-    "README.md",
     "CURSOS/Typescript/TsConfig.json.md",
-    "CURSOS/Typescript/Hola mundo.md",
-    "CURSOS/Typescript/Instalacion.md",
-    "Computer Science Congress/Requerimientos Funcionales.md",
     "CURSOS/Typescript",
     "CURSOS/TS",
     "CURSOS",
-    "Computer Science Congress/Requerimientos No funcionales.md",
     "Docker",
     "DSA",
     "Computer Science Congress",
-    "i3",
-    "Git"
+    "i3"
   ]
 }
