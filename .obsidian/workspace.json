@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Participaciones"
             }
+          },
+          {
+            "id": "151f076289e9bb58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Nodejs/Nodejs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nodejs"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neovim/keybinds - Shortcuts.md",
+                "file": "Programming/Nodejs/Nodejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for keybinds - Shortcuts"
+              "title": "Backlinks for Nodejs"
             }
           },
           {
@@ -181,13 +195,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "0e243c9c05237bcc",
+  "active": "151f076289e9bb58",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Programming/Nodejs/Nodejs.md",
     "Uaa/Centros de TI/Participaciones.md",
+    "Programming/Nodejs",
+    "Untitled.canvas",
     "Programming/LabMOVIL/Git.md",
     "Uaa/Centros de TI",
     "Programming/LabMOVIL/Contexto.md",
@@ -204,7 +221,6 @@
     "UAA/Septimo",
     "uaa",
     "Programming",
-    "Programming/Frameworks",
     "Docker/Commands.md",
     "Programming/GIT/Git stash y Git Rebase.md",
     "Programming/GIT/Fundamentos 2.md",
