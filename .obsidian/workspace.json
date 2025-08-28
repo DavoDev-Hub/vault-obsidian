@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/LabMOBIL/Contexto.md",
+                "file": "Programming/LabMOVIL/Contexto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Contexto"
             }
+          },
+          {
+            "id": "0e243c9c05237bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uaa/Centros de TI/Participaciones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Participaciones"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,28 +184,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55db195a34dc06fa",
+  "active": "0e243c9c05237bcc",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Uaa/Centros de TI/Participaciones.md",
+    "Programming/LabMOVIL/Git.md",
+    "Uaa/Centros de TI",
+    "Programming/LabMOVIL/Contexto.md",
+    "Uaa",
+    "uaa/Untitled.md",
+    "uaa",
     "codigo.md",
     "markdown-cheatsheet-online.pdf",
-    "Programming/LabMOBIL/Git.md",
-    "Programming/LabMOBIL/Contexto.md",
-    "Programming/LabMOBIL/Lunes.md",
+    "Programming/LabMOVIL/Lunes.md",
     "README.md",
     "Programming/DSA/Arrays.md",
     "Programming/ML",
     "UAA/Python",
     "UAA/Septimo",
-    "UAA",
+    "uaa",
     "Programming",
-    "Frameworks",
+    "Programming/Frameworks",
     "Docker/Commands.md",
-    "Programming/LabMOBIL",
     "Programming/GIT/Git stash y Git Rebase.md",
     "Programming/GIT/Fundamentos 2.md",
     "Programming/GIT/Fundamentos.md",
     "Programming/GIT/Gist.md",
-    "Frameworks/Angular/08-classes.md",
+    "Programming/Frameworks/Angular/08-classes.md",
     "Programming/GIT/GitHub  - BASICO.md",
     "Programming/GIT/GitHub - AVANZADO.md",
     "Programming/GIT/Wikis, Proyectos y Github Pages.md",
@@ -199,12 +219,8 @@
     "Programming/GIT/MARKDOWN.md",
     "Programming/GIT/Github Issues, MileStones y Colaboradores.md",
     "Programming/GIT/Github Inicios, Git Remote, Push & Pull.md",
-    "Frameworks/Angular/07-import-export.md",
-    "Frameworks/Angular/06-Function-Destructuring.md",
-    "Frameworks/Angular/05-basic-destructuring.md",
-    "Frameworks/Angular/04-homework-types.ts.md",
-    "Frameworks/Angular/03-functions.ts.md",
-    "Frameworks/Angular",
-    "CURSOS/Typescript"
+    "Programming/Frameworks/Angular/07-import-export.md",
+    "Programming/Frameworks/Angular/06-Function-Destructuring.md",
+    "Programming/Frameworks/Angular/05-basic-destructuring.md"
   ]
 }
