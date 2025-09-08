@@ -1,4 +1,4 @@
-Aprender backend “por primeros principios” = **descomponer cualquier sistema** en **bloques universales** (rutas, middleware, dominio/servicios, persistencia/DB, validación, auth, caché, logging, manejo de errores, jobs/colas, observabilidad, despliegue) y **reconocer esos patrones** sin importar lenguaje o framework. Con esa brújula mental puedes:
+?Aprender backend “por primeros principios” = **descomponer cualquier sistema** en **bloques universales** (rutas, middleware, dominio/servicios, persistencia/DB, validación, auth, caché, logging, manejo de errores, jobs/colas, observabilidad, despliegue) y **reconocer esos patrones** sin importar lenguaje o framework. Con esa brújula mental puedes:
 - Entrar a un backend desconocido y **no perderte**.
 - **Onboardearte** rápido sin leer toda la doc de cada librería.
 - **Crear APIs productivas** (MVP con calidad prod) sin vivir pegado a tutoriales.
